@@ -1,5 +1,5 @@
 # adaptive-time-phase-field-fracture
-Implementation of the phase-field model with adaptive time scheme .
+Implementation of the phase-field model with adaptive time field scheme .
 
 If you want to use these subroutine (research ONLY), please cite our papers:
 
